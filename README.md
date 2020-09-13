@@ -8,5 +8,3 @@
 - 📫 How to reach me: debapriyamondal@outlook.com
 - ⚡ Fun fact: ***Biriyani lover***
 
-
-![Facebook](Images/facebook.svg)|width:100
