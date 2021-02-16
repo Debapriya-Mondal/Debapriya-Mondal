@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning ***Machine Learning***
-- 👯 I’m looking to collaborate on ***Machine Learning project***
+- 👯 I’m looking to collaborate on ***Machine Learning or Deep learning project***
 - 📫 How to reach me: debapriyamondal@outlook.com
 <p align='center'>
   <a href="https://www.facebook.com/debapriyo.mondal.31/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="30" height="30"></a>
