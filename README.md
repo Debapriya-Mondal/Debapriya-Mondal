@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning ***Machine Learning***
+- 🌱 I’m currently learning ***Machine Learning*** ***Deep Learning*** ***React.js***
 - 👯 I’m looking to collaborate on ***Machine Learning or Deep learning project***
 - 📫 How to reach me: debapriyamondal@outlook.com
 <p align='center'>
